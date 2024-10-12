@@ -20,6 +20,10 @@ This is a NestJS API for **Clay Technologies**, providing essential functionalit
 - **React Query**: A data-fetching library for React applications.
 - **Tailwind CSS**: A utility-first CSS framework for creating custom designs.
 
+## Documentation
+
+- https://clay-int-api.onrender.com/api
+
 ## Installation
 
 ### Prerequisites
